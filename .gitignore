@@ -164,3 +164,4 @@ pip-log.txt
 
 # vscode
 .vscode/
+node_modules/
